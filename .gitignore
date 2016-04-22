@@ -2,3 +2,5 @@
 node_modules
 npm-debug.log
 setup.sh
+csv
+export
